@@ -6,6 +6,8 @@ Projeto que realiza a geração de CPF para o usuário.
 ```bash
 npm install
 ```
+* Abra o arquivo <b>index.html</b> em seu navegador.
+
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219703721-e658e16f-fe7a-4a8b-bc90-22d9859c747c.png" /> Iniciar a aplicação
 * O projeto utiliza <b>webpack</b>, então para executá-lo segue o comando:
 ```bash
